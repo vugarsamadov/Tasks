@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NowOKfKBFOtC28QcpHc0+y+2SBniHbWnM6bbVd6QJ29ZajQ4vpCPOdM4m4ylwz/OPzYep2dMDv6LYp8jTnzdTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vuqar\\Desktop\\Code\\Tasklar\\LoopTasksWeek2\\LoopTasksWeek2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuqar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\vuqar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\vuqar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\vuqar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\bin\Debug\net7.0\LoopTasksWeek2.exe
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\bin\Debug\net7.0\LoopTasksWeek2.deps.json
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\bin\Debug\net7.0\LoopTasksWeek2.runtimeconfig.json
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\bin\Debug\net7.0\LoopTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\bin\Debug\net7.0\LoopTasksWeek2.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\refint\LoopTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\LoopTasksWeek2.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\LoopTasksWeek2\obj\Debug\net7.0\ref\LoopTasksWeek2.dll
