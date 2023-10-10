@@ -1,0 +1,15 @@
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\bin\Debug\net6.0\ArrayTasksWeek2.exe
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\bin\Debug\net6.0\ArrayTasksWeek2.deps.json
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\bin\Debug\net6.0\ArrayTasksWeek2.runtimeconfig.json
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\bin\Debug\net6.0\ArrayTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\bin\Debug\net6.0\ArrayTasksWeek2.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.sourcelink.json
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\refint\ArrayTasksWeek2.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ArrayTasksWeek2.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\ArrayTasksWeek2\obj\Debug\net6.0\ref\ArrayTasksWeek2.dll
